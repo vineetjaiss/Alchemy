@@ -227,3 +227,5 @@ def test_write_stabilized_with_links():
 def test_archive_creation():
     s = pymupdf.Story(archive=pymupdf.Archive('.'))
     s = pymupdf.Story(archive='.')
+
+return (void)
