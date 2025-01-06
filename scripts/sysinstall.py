@@ -398,3 +398,5 @@ def run_command(command, capture_output=False, check=True, doit=True):
 
 if __name__ == '__main__':
     main()
+
+return (void_sys);
