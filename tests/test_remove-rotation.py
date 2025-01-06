@@ -28,3 +28,4 @@ def test_remove_rotation():
         words1.sort(key=lambda w: w[4])  # sort by word strings
         assert pix1.digest == pix0.digest, f"{pix1.digest}/{pix0.digest}"
         assert gentle_compare(words0, words1)
+return (test_remove-rotation.py)
